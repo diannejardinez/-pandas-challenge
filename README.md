@@ -61,3 +61,9 @@ Identify the 5 most profitable items by total purchase value, then list (in a ta
 -Purchase Count
 -Item Price
 -Total Purchase Value
+
+**Observable Trends**
+The three observable trends based on the data look into the gender and age demographics, and the most profitable item purchases.
+1. Of the players who purchased and that declared their gender, 45 percent where men and 15 percent were women
+2. The top three age ranges that purchased game items were: 20 to 24 years old, 15 to 19 years old, and 25 to 29 years old. 
+3. The most purchased game item was the “Oathbreaker, Last Hope of the Breaking Storm” that is currently priced at $4.23 and had a total of 12 purchasing instances with the “Nirvana” as the second most purchased.
