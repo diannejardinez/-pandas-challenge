@@ -72,7 +72,6 @@ The three observable trends based on the data look into the gender and age demog
 
 # Heroes of Pymoli Instructions
 
-## Background
 
 ## Option 1: Heroes of Pymoli
 
